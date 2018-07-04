@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527683287624.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CDBEC084",
+    "lastKnownWriteTime" : 25896028575039561,
+    "last_content_update" : 1527683287624,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "933EDFF4",
+        "caption" : "totalvalueadded",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=totalvalueadded&cache_key=933EDFF4",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "object" : "totalvalueadded",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 2690
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

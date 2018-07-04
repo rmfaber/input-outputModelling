@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527680009952.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "439F7342",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1527680009952,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6C2B4ED8",
+        "caption" : "iiflowmatrix",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=iiflowmatrix&cache_key=6C2B4ED8",
+        "displayedObservations" : "56",
+        "environment" : "",
+        "object" : "iiflowmatrix",
+        "preview" : "0",
+        "totalObservations" : "56",
+        "variables" : "56"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

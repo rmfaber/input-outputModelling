@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527672228773.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "12334003",
+    "lastKnownWriteTime" : 1527770441,
+    "last_content_update" : 1527771448632,
+    "path" : "~/Roel/Studie/Economy/IOM/Assignment.R",
+    "project_path" : "Assignment.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "20"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
