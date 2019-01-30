@@ -22,5 +22,3 @@ Some of the questions were answered using the excel sheet, as they were about si
 
 For the more difficult questions I extracted the relevant vectors using R and calculated technical requirement & Leontief matrices for both an open and a closed model. 
 
-In the current version two questions were answered wrongly: they were about value-added effects.
-
